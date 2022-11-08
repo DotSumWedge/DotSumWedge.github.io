@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.83b726d4.css",
-    "main.js": "/static/js/main.a20cbb2f.js",
+    "main.js": "/static/js/main.c535d09b.js",
     "static/js/787.3935af6d.chunk.js": "/static/js/787.3935af6d.chunk.js",
     "static/media/Derek_Professional_Photo.jpg": "/static/media/Derek_Professional_Photo.cbc4e599aa6d9c5f9cc2.jpg",
     "index.html": "/index.html",
     "main.83b726d4.css.map": "/static/css/main.83b726d4.css.map",
-    "main.a20cbb2f.js.map": "/static/js/main.a20cbb2f.js.map",
+    "main.c535d09b.js.map": "/static/js/main.c535d09b.js.map",
     "787.3935af6d.chunk.js.map": "/static/js/787.3935af6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83b726d4.css",
-    "static/js/main.a20cbb2f.js"
+    "static/js/main.c535d09b.js"
   ]
 }
