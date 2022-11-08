@@ -2,6 +2,7 @@ import './App.css';
 import React from 'react';
 import {Routes, Route, Link} from 'react-router-dom';
 import BarChartPage from './pages/BarChartPage';
+import DerekRogersPhoto from './Images/Derek_Professional_Photo.jpg';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <h1>
           Derek Rogers
         </h1>
+        <img src={DerekRogersPhoto} style={{ width: 200, height: 200 }}/>
         <h2>
           From: Overland Park, Kansas
         </h2>
