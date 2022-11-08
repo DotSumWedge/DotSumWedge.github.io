@@ -12,7 +12,7 @@ function App() {
           From: Overland Park, Kansas
         </h2>
         <h2>
-          Intrests: Outside of studies and work I enjoy a variety of hobbies including disc golf, snowboarding, rock climbing, games, painting/modeling, building computers, playing piano/guitar, listening to music, and cooking. I find joy in trying something new and watching people dedicated to their craft show off their skills and knowledge.
+          Interests: Outside of studies and work I enjoy a variety of hobbies including disc golf, snowboarding, rock climbing, games, painting/modeling, building computers, playing piano/guitar, listening to music, and cooking. I find joy in trying something new and watching people dedicated to their craft show off their skills and knowledge.
         </h2>
         <h2>
           Work: Software Developer at Argo Data
