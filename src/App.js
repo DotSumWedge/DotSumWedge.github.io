@@ -22,7 +22,7 @@ function App() {
           Work: Software Developer at Argo Data
         </h2>
         <h2>
-          School: BS of Computer Science and Minor in math at the University of North Texas and currently persuing a MS in Data Science at Southern Methodist University
+          School: BS of Computer Science and Minor in mathematics at the University of North Texas and currently pursuing  a MS in Data Science at Southern Methodist University
         </h2>
         <Routes>
             <Route path="*" element={<BarChartPage />} />
