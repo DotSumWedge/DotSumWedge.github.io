@@ -100,7 +100,7 @@ const Chart = ({dataScientists}) => {
 const barChartDivStyle = {
     backgroundColor: '#323638', 
     color: '#ffffff',
-    border: '7px solid #3b4043',
+    border: '7px solid #365553',
     padding: '20px',
 	margin: '15px',
 	width: '1700px',
