@@ -32,7 +32,6 @@ function BarChartPage() {
 
 const barChartPageStyle = {
     backgroundColor: '#262623', 
-    border: '15px solid #630c01',
     padding: '50px'
 }
 

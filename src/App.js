@@ -7,6 +7,7 @@ import DerekRogersPhoto from './Images/Derek_Professional_Photo.jpg';
 function App() {
   return (
     <div className="App" style={appDivStyle}>
+        <div style={{ width: 200, height: 10 }}> </div>
         <h1>
           Derek Rogers
         </h1>
@@ -33,6 +34,7 @@ function App() {
 
 const appDivStyle = {
   backgroundColor: '#4c4c46',
+  border: '15px solid #365553',
   color: '#98efeb'
 }
 
