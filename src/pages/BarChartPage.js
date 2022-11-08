@@ -24,6 +24,7 @@ function BarChartPage() {
 
   return (
     <div style={barChartPageStyle}>
+        <h1 style={barChartHeaderStyle}>Data Science Skills</h1>
         <Chart dataScientists={dataScientists}/>
     </div>
   )
@@ -33,6 +34,10 @@ const barChartPageStyle = {
     backgroundColor: '#262623', 
     border: '15px solid #630c01',
     padding: '50px'
+}
+
+const barChartHeaderStyle = {
+  color: '#98efeb'
 }
 
 export default BarChartPage

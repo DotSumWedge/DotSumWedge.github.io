@@ -32,6 +32,8 @@ function App() {
 }
 
 const appDivStyle = {
+  backgroundColor: '#4c4c46',
+  color: '#98efeb'
 }
 
 export default App;
