@@ -34,7 +34,7 @@ function App() {
 
 const appDivStyle = {
   backgroundColor: '#4c4c46',
-  border: '15px solid #365553',
+  border: '20px solid #365553',
   color: '#98efeb'
 }
 
