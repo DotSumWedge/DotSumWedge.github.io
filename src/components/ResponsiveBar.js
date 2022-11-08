@@ -103,7 +103,9 @@ const barChartDivStyle = {
     border: '7px solid #3b4043',
     padding: '20px',
 	margin: '15px',
-	width: '1700px'
+	width: '1700px',
+	display: 'block',
+	margin: 'auto'
 }
 
 export default Chart

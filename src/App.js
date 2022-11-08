@@ -1,10 +1,11 @@
 import './App.css';
+import React from 'react';
 import {Routes, Route, Link} from 'react-router-dom';
 import BarChartPage from './pages/BarChartPage';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={appDivStyle}>
         <h1>
           Derek Rogers
         </h1>
@@ -26,6 +27,9 @@ function App() {
 
     </div>
   );
+}
+
+const appDivStyle = {
 }
 
 export default App;
