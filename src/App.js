@@ -25,6 +25,13 @@ function App() {
         <h2>School:</h2>
         <div>BS of Computer Science and Minor in mathematics at the University of North Texas and currently pursuing  a MS in Data Science at Southern Methodist University</div>
 
+        <h2>Github:</h2>
+        <div>https://github.com/DotSumWedge</div>
+        <div>https://github.com/derogers</div>
+
+        <h2>Youtube:</h2>
+        <div>https://www.youtube.com/@derekrogers5326</div>
+
         <div style={{ width: 200, height: 20 }}> </div>
         <Routes>
             <Route path="*" element={<BarChartPage />} />
