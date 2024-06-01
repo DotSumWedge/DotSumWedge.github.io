@@ -2,6 +2,7 @@
     import { writable } from 'svelte/store';
     import { tick } from 'svelte';
     import autosize from 'svelte-autosize';
+    import { base } from '$app/paths';
 
     const genre_options = [
         { value: 'Fantasy', label: 'Fantasy: A world filled with magic, mythical creatures, and enchanted lands.' },
@@ -226,7 +227,7 @@
 
 <div class="centered">
     <img
-        src="/KatTheBardLogo.png"
+        src="{base}/KatTheBardLogo.png"
         alt="Kat the Bard Logo"
     />
 </div>
